@@ -1,29 +1,47 @@
 
-My Cybersecurity Portfolio
+Muhammad Jallo
 
-Welcome to my cybersecurity learning portfolio.
+Aspiring Cybersecurity Professional | Python Learner
 
-My goal is to become a cybersecurity professional. I am currently developing my knowledge and practical skills in:
+Welcome to my learning journey!
 
-Python programming
+I'm currently developing my programming skills, starting with Python, as I work towards my long-term goal of becoming a cybersecurity professional.
 
-Computer networking
+My Learning Journey
 
-Linux and command-line tools
+Python
 
-Cybersecurity fundamentals
+Completed Introduction to Python – SoloLearn
 
-Ethical hacking and security testing
+Completed Python Intermediate – SoloLearn
 
-Projects
+Practising Python programming and problem-solving.
 
-My practical cybersecurity projects will be added here as I learn.
+Learning about error handling, loops, functions, and file handling.
 
 Certificates
 
-My learning certificates will be added here.
+Introduction to Python – SoloLearn
 
-Learning Journey
+Python Intermediate – SoloLearn
 
-I am building my skills through consistent learning and legal, hands-on cybersecurity practice.
+Current Goals
+
+Strengthen my Python programming skills.
+
+Learn computer networking.
+
+Understand Linux and command-line tools.
+
+Begin studying cybersecurity fundamentals.
+
+Develop practical projects.
+
+Technologies I'm Learning
+
+Python
+
+Git and GitHub
+
+This repository documents my learning progress and projects as I work towards a career in cybersecurity.
 
