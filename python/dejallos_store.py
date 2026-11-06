@@ -1,4 +1,4 @@
-#updated version for better experience run in another platform because of sololearn requires all the inputs before it can run
+#My first python project still working on it
 import time
 print('===🛍Dejallos Luxurious Store===')
 time.sleep(2)
