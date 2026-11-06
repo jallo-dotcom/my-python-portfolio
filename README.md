@@ -1,4 +1,3 @@
-
 Muhammad Jallo
 
 Aspiring Cybersecurity Professional | Python Learner
@@ -11,37 +10,29 @@ My Learning Journey
 
 Python
 
-Completed Introduction to Python – SoloLearn
-
-Completed Python Intermediate – SoloLearn
-
-Practising Python programming and problem-solving.
-
-Learning about error handling, loops, functions, and file handling.
+- Completed Introduction to Python – SoloLearn
+- Completed Python Intermediate – SoloLearn
+- Practising Python programming and problem-solving.
+- Learning about error handling, loops, functions, and file handling.
 
 Certificates
 
-Introduction to Python – SoloLearn
-
-Python Intermediate – SoloLearn
+- Introduction to Python – SoloLearn
+- Python Intermediate – SoloLearn
 
 Current Goals
 
-Strengthen my Python programming skills.
-
-Learn computer networking.
-
-Understand Linux and command-line tools.
-
-Begin studying cybersecurity fundamentals.
-
-Develop practical projects.
+- Strengthen my Python programming skills.
+- Learn computer networking.
+- Understand Linux and command-line tools.
+- Begin studying cybersecurity fundamentals.
+- Develop practical projects.
 
 Technologies I'm Learning
 
-Python
+- Python
+- Git and GitHub
 
-Git and GitHub
+---
 
 This repository documents my learning progress and projects as I work towards a career in cybersecurity.
-
